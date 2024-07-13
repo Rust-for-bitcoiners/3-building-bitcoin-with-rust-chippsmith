@@ -1,7 +1,5 @@
-mod linked_list;
 mod block;
+mod linked_list;
 mod mresult;
 
-fn main() {
-    println!("Hello, world!");
-}
+fn main() {}
